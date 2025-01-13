@@ -1,0 +1,49 @@
+[
+  {
+    "id": 1,
+    "name": "Anastasiia",
+    "username": "yanitska.a",
+    "email": "email@gmail.com",
+    "phone": "1254786356"
+  },
+  {
+    "id": 2,
+    "name": "Anastasiia2",
+    "username": "yanitska.a2",
+    "email": "email2@gmail.com",
+    "phone": "1254786356"
+  },
+  {
+    "id": 3,
+    "name": "Anastasiia3",
+    "username": "yanitska.a3",
+    "email": "email3@gmail.com",
+    "phone": "1254786356"
+  },
+  {
+    "id": 4,
+    "name": "Anastasiia4",
+    "username": "yanitska.a4",
+    "email": "email4@gmail.com",
+    "phone": "1254786356"
+  },
+  {
+    "id": 5,
+    "name": "Anastasiia5",
+    "username": "yanitska.a5",
+    "email": "email5@gmail.com",
+    "phone": "1254786356"
+  },
+  {
+    "id": 6,
+    "name": "Yury",
+    "username": "password123",
+    "email": "ывмывмв@gmail.com"
+  },
+  {
+    "id": 7,
+    "name": "Yury",
+    "username": "password123",
+    "email": "ывмывмв@gmail.com"
+  }
+]
